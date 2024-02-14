@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'a-glass-of-water'
+
+theme = "smol"
+
+# Parameters
+[params]
+    subtitle = "random + interesting things I find myself thinking about."
+    dateFmt = "02.01.2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "tags"
+        name = "tags"
+        url = "/tags/"
+        weight = 1
+
+# Footer
+  [[menu.footer]]
+        name = "github"
+        url = "https://github.com/m3n2ie"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "twitter"
+        url = "https://twiiter.com/m3n2ie"
+        weight = 2 
