@@ -25,5 +25,5 @@ theme = "smol"
 
     [[menu.footer]]
         name = "twitter"
-        url = "https://twiiter.com/m3n2ie"
+        url = "https://twitter.com/m3n2ie"
         weight = 2 
